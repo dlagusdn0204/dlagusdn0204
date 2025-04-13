@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=Welcome%20to-nl-Hyunwoo's%20Github&fontSize=60" />
 
-
 ## Introduction
 안녕하세요.
 영남대학교 컴퓨터공학전공 22학번 임현우 입니다.
