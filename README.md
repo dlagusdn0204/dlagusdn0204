@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Welcome%20to-nl-Hyunwoo's%20Github&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=Welcome%20to-nl-Hyunwoo's%20Github&fontSize=60" />
 
 
 ## Introduction
