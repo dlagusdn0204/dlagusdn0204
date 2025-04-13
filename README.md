@@ -6,7 +6,7 @@
 영남대학교 컴퓨터공학전공 22학번 임현우 입니다.
 
 ## Tech stack
-c, python, c++
+#A8B9CC
 
 ## My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlagusdn0204)](https://github.com/anuraghazra/github-readme-stats)
