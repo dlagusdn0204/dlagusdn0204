@@ -7,6 +7,8 @@
 
 ## Tech stack
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![python](https://img.shields.io/badge/python-007396.svg?&style=for-the-badge&logo=python&logoColor=blue)
+
 
 ## My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlagusdn0204)](https://github.com/anuraghazra/github-readme-stats)
