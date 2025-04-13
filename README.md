@@ -6,7 +6,7 @@
 영남대학교 컴퓨터공학전공 22학번 임현우 입니다.
 
 ## Tech stack
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
 
 
