@@ -8,6 +8,8 @@
 ## Tech stack
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++>&logoColor=white)
+출처: https://soo-vely-dev.tistory.com/159#6. Solved.ac Profile(백준 티어)-1-6 [soo_vely의 개발로그:티스토리]
 
 
 ## My GitHub Stats
