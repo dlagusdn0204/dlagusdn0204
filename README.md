@@ -7,7 +7,7 @@
 
 ## Tech stack
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=blue)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=blue)
 
 
 ## My GitHub Stats
