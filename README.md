@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ## Introduction
 안녕하세요.
 영남대학교 컴퓨터공학전공 22학번 임현우 입니다.
