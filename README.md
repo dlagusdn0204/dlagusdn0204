@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=400&section=header&text=Welcome%20to-nl-my%20Github profile!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=random&height=400&section=header&text=Welcome%20to%20my%20Github profile!&fontSize=90" />
 
 
 
